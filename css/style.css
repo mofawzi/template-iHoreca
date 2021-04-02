@@ -74,7 +74,7 @@ textarea:focus {
 /******************** Header Start *********************/
 .header {
   position: relative;
-  background: url("/img/header-background.jpg") no-repeat center center/cover;
+  background: url("../img/header-background.jpg") no-repeat center center/cover;
   height: 1200px;
   box-shadow: inset 1rem -50rem 150px rgba(0, 0, 0, 0.5);
 }
@@ -105,7 +105,7 @@ textarea:focus {
   width: 15%;
 }
 .navbar__links {
-  width: 60%;
+  width: 65%;
   margin-right: 2rem;
   position: relative;
 }
@@ -249,7 +249,7 @@ textarea:focus {
 
 /******************** Newsletter Start *********************/
 .newsletter {
-  background: url("/img/newsletter-back.jpg");
+  background: url("../img/newsletter-back.jpg");
   padding: 5rem 0;
   box-shadow: inset 100rem -100rem 150px rgba(0, 0, 0, 0.5);
   text-align: center;
@@ -278,7 +278,7 @@ textarea:focus {
   color: var(--heavy-orange);
   position: absolute;
   width: 20%;
-  right: 15rem;
+  right: 13rem;
 }
 
 /******************** Newsletter End *********************/
@@ -366,7 +366,7 @@ textarea:focus {
   justify-content: flex-start;
 }
 .follow h3 {
-  width: 50%;
+  width: 60%;
   padding-left: 15rem;
   color: var(--light-grey);
 }
